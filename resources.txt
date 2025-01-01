@@ -1,0 +1,7 @@
+I used this website for adding tailwind
+
+https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/
+
+They advertise using this product for getting email addresses
+https://weightless.so/
+
